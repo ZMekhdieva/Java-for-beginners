@@ -1,7 +1,6 @@
 package com.company;
 
 import java.math.BigDecimal;
-import java.math.RoundingMode;
 import java.util.Scanner;
 
 import static java.math.BigDecimal.ROUND_HALF_UP;
